@@ -3,8 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "degreenet"]
+	path = degreenet
+	url = https://github.com/cran/degreenet
+	shallow = true
+	registered = true
+[submodule "RDS"]
+	path = RDS
+	url = https://github.com/cran/RDS
+	shallow = true
+	registered = true
 [submodule "reldist"]
 	path = reldist
 	url = https://github.com/handcock/reldist
+	shallow = true
+	registered = true
+[submodule "sspse"]
+	path = sspse
+	url = https://github.com/cran/sspse
 	shallow = true
 	registered = true
