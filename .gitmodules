@@ -18,6 +18,11 @@
 	url = https://github.com/handcock/reldist
 	shallow = true
 	registered = true
+[submodule "rpm"]
+	path = rpm
+	url = https://github.com/handcock/rpm
+	shallow = true
+	registered = true
 [submodule "sspse"]
 	path = sspse
 	url = https://github.com/cran/sspse
