@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "degreenet"]
-	path = degreenet
-	url = https://github.com/cran/degreenet
 [submodule "RDS"]
 	path = RDS
 	url = https://github.com/cran/RDS
+[submodule "degreenet"]
+	path = degreenet
+	url = https://github.com/cran/degreenet
 [submodule "reldist"]
 	path = reldist
 	url = https://github.com/handcock/reldist
